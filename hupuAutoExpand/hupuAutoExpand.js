@@ -26,8 +26,8 @@
     var bqEleArr = document.getElementsByTagName("blockquote") || [];
     var size = bqEleArr.length;
     for (var i = 0; i < size; i++) {
+		var bqEle = bqEleArr[i];
 		if (bqEle.offsetHeight > 200) {
-			var bqEle = bqEleArr[i];
 			bqEle.style.cssText='max-height: 100px; overflow: hidden; transition: max-height 2s ease 0s;';
 
 			var expandParentEle = document.createElement("div");
