@@ -1,12 +1,12 @@
-// ==UserScript==
-// @name         v2ex领取每日奖励
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
-// @author       zz
-// @match        https://www.v2ex.com/*
-// @grant        none
-// ==/UserScript==
+  ==UserScript==
+   @name         v2ex自动领取每日奖励
+   @namespace    httptampermonkey.net
+   @version      0.1
+   @description  v2ex自动领取每日奖励，打开v2自动领取
+   @author       zerozz
+   @match        https://www.v2ex.com/*
+   @grant        none
+  ==/UserScript==
 
 (function() {
     'use strict';
