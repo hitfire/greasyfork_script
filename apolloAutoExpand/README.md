@@ -1,0 +1,3 @@
+# v2ex自动领取每日奖励
+携程apollo 1.0版本自动折叠namespace脚本，把match的地址改为你的apollo中心的地址
+会在页面增加一个折叠namespace的按钮，点击可全部折叠和打开
