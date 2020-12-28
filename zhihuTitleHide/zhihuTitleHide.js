@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  去除知乎最上方标题栏，右边的侧边栏，设置正文宽度为显示宽度的2/3
-// @author       zz
+// @author       zerozz
 // @match        https://www.zhihu.com/question/*
 // @grant        none
 // ==/UserScript==
