@@ -9,3 +9,5 @@ greasyfork脚本，使用方式：1、在[greasyfork](https://greasyfork.org/zh-
 [greasyfork安装地址](https://greasyfork.org/zh-CN/scripts/382642-%E6%90%BA%E7%A8%8Bapollo-1-0%E7%89%88%E6%9C%AC%E8%87%AA%E5%8A%A8%E6%8A%98%E5%8F%A0namespace "携程apollo 1.0版本自动折叠namespace")
 - 4、[吾爱破解 自动签到](https://github.com/hitfire/greasyfork_script/tree/master/52pojieAutoExpand "吾爱破解 自动签到")  
 [greasyfork安装地址](https://greasyfork.org/zh-CN/scripts/404900-%E5%90%BE%E7%88%B1%E7%A0%B4%E8%A7%A3-%E8%87%AA%E5%8A%A8%E7%AD%BE%E5%88%B0 "吾爱破解 自动签到")
+- 5、[去除知乎最上方标题栏](https://github.com/hitfire/greasyfork_script/tree/master/zhihuTitleHide "去除知乎最上方标题栏")  
+[greasyfork安装地址](https://greasyfork.org/zh-CN/scripts/419277-%E5%8E%BB%E9%99%A4%E7%9F%A5%E4%B9%8E%E6%9C%80%E4%B8%8A%E6%96%B9%E6%A0%87%E9%A2%98%E6%A0%8F "去除知乎最上方标题栏")
