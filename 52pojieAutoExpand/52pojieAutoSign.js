@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         吾爱破解 自动签到
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  自动签到
 // @author       zz
 // @match        https://www.52pojie.cn/*
@@ -24,6 +24,6 @@
         sessionObj.sessionMonth = new Date().getMonth();
         console.log(JSON.stringify(sessionObj))
         localStorage.setItem('pojie52AutologinFlag', JSON.stringify(sessionObj));
-        window.location.href = '/home.php?mod=task&do=apply&id=2';
+        window.open('/home.php?mod=task&do=apply&id=2');
     }
 })();
